@@ -1,6 +1,6 @@
 /*========= typing animation =========*/
 var typed = new Typed(".multiple-text", {
-  strings: ["Mateo Telleria", "a programmer"],
+  strings: ["Ahmad Arfan", "a programmer"],
   startDelay: 500,
   typeSpeed: 100,
   backSpeed: 100,
